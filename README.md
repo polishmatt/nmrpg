@@ -1,4 +1,4 @@
-# Noodle Man RPG
+# ![Noodle Man RPG](legacy/logosmall.png)
 
 ![CC BY-NC-SA Shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
